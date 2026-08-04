@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Application
         run: |
-          python app.py
+          python wrong_file.py
