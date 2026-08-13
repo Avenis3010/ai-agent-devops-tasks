@@ -22,6 +22,5 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run Application
-        run: |
-          python wrong_file.py
+      - name: Run Python script
+        run: python app.py
