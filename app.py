@@ -1,3 +1,3 @@
-print("Hello DevOps AI")
+print("AI DevOps Copilot Test")
 
-print("This will fail")
+raise Exception("Intentional failure for AI DevOps Copilot")
